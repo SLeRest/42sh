@@ -1,4 +1,5 @@
 The description of the project has been written by [Mohammed Merabet](https://github.com/mmerabet42).
+[Link to the originial repository of our teamwork](https://github.com/mmerabet42/42sh)
 
 # 42SH
 
