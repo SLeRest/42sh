@@ -1,3 +1,5 @@
+The description of the project has been written by [Mohammed Merabet](https://github.com/mmerabet42).
+
 # 42SH
 
 42sh is a 42 school project whose goal is to make a POSIX shell. But the most important aspect of this project was to work on our ability to contribute to a big project in a group.
